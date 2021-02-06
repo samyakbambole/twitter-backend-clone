@@ -1,0 +1,5 @@
+- [*] Getting All
+- [*] Getting One 
+- [*] Creating One 
+- [*] Updating One 
+- [*] Deleting one 
