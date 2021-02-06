@@ -1,10 +1,10 @@
-# titter-backend-clone 
+# twtter-backend-clone 
 A Simple CRUD API made in Express which can - 
-- [*] View All tweets
-- [*] View One Tweet
-- [*] Create a Tweet
-- [*] Update a tweet
-- [*] Delete a tweet
+- [x] View All tweets
+- [x] View One Tweet
+- [x] Create a Tweet
+- [x] Update a tweet
+- [x] Delete a tweet
 
 ## Prerequisites 📝
 
