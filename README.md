@@ -32,6 +32,14 @@ npm i
 - After You have set all the things up, type in your Terminal - `npm start`
 - You will get some messages in the console that the server has started and the connection to the database has been established.
 
+#### If You use VSCode
+- Download the `REST Client` Extention for VSCode
+- Open the `API.rest` file in VSCode 
+- Click the `Send Request` Button above the request you want to send to the server
+
+#### If You DO NOT Use VSCode
+- You can use API Clients such as Insomnia and Postman. 
+
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

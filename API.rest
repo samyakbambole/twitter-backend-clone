@@ -1,0 +1,28 @@
+# Getting All
+GET http://localhost:5000/tweets
+
+###
+# Getting One 
+GET http://localhost:5000/tweets/:id
+
+###
+# Updating One 
+PATCH http://localhost:5000/tweets/:id
+Content-Type: application/json
+{
+     "name": "Your Name",
+     "tweet": "Your Tweet"
+}
+
+###
+# Deleting One
+DELETE http://localhost:5000/tweets/:id
+
+###
+# Creating one 
+POST http://localhost:5000/tweets/
+Content-Type: application/json
+{
+     "name": "Your name", 
+     "tweet": "Your Tweet"
+}
