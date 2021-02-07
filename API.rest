@@ -9,6 +9,7 @@ GET http://localhost:5000/tweets/:id
 # Updating One 
 PATCH http://localhost:5000/tweets/:id
 Content-Type: application/json
+
 {
      "name": "Your Name",
      "tweet": "Your Tweet"
