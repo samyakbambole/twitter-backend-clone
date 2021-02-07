@@ -22,7 +22,8 @@ DELETE http://localhost:5000/tweets/:id
 # Creating one 
 POST http://localhost:5000/tweets/
 Content-Type: application/json
+
 {
-     "name": "Your name", 
+     "name": "Your Name", 
      "tweet": "Your Tweet"
 }
